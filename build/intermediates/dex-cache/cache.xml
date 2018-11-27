@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\User\KdanQuiz1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\User\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a5724cb2621133d026c66c7bd42ac74cb7737521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\User\.android\build-cache\6afcb27373595cdc63e59478f2cdebecdff34d42\output\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
@@ -72,6 +81,15 @@
         revision="28.0.3"
         sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
         <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a9e58c904a606a7604e14527c070dfbd96a7735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\KdanQuiz1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e0e51c8c463d077355fdf106e746e7086a874ecf">
+        <dex dex="C:\Users\User\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_20ca518d9558f975a18eb31cdbf5f1736a79c5d7\classes.dex" />
     </item>
     <item
         is-multidex="true"

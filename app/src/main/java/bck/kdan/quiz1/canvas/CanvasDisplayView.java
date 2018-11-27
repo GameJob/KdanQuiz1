@@ -39,8 +39,8 @@ public class CanvasDisplayView extends View
 		paint.setAntiAlias(true);
 		paint.setStyle(Paint.Style.STROKE);
 		paint.setStrokeCap(Cap.ROUND);
-		paint.setColor(0xff00ff00);
-		paint.setStrokeWidth(12f);
+		paint.setColor(0xff00ffff);
+		paint.setStrokeWidth(20f);
 	}
 
 	@Override
