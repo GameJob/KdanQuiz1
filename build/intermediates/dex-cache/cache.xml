@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\6afcb27373595cdc63e59478f2cdebecdff34d42\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_869fc676959625c7db1c509e6bbfff98dce8dd5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\e0d58c8230d534035eb409f65ea32fe988e3f04f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64fbaabf922f82982d18fda950553006777a3ad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_dd91ecae0e2802df12eb8b54a5169c434f721297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5d1e5efd89c3372f40bb4db31dd81e861511535c">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad1f91c3ba0cb293705948a0ca1bddb360345240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\d0e253c90ae5da5ac7615ac1cedbfada6c03ee82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd720cda7872d967fb120e2c40b26d230186e42d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\66a1078e57114931e6dba395a9e3891f932c0fa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6a6c42c361fb81fcf97a1a8e14cc1d9679cb3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\90e92002ad64dc8722416dfbfe8dc2bbff4bc089\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db51cfb5b231c76330874daccba653538c8932cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\70bc6d1105e50c19f21b388ce0455c16a0f31e59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a9e58c904a606a7604e14527c070dfbd96a7735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\d5706f3db89bb0e0d09b723f63a1c67cd010f2af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4eb27610091dec38289d09d52c2e59292dde7809\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a4ecb4250bea97e5a1ba31bdfbbf12fd820cd99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\6afcb27373595cdc63e59478f2cdebecdff34d42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73dcd8f2bef537dbdb0364b6fe4106ccffda33dc\classes.dex" />
+    </item>
+
+</items>

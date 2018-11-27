@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    
+    <style name="TransparentAppTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="AppBarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:actionButtonStyle">@style/myActionButtonStyle</item>
+        <item name="actionDropDownStyle">@style/AppBaseToolBarMenuDropDownStyle</item>
+        <item name="actionOverflowMenuStyle">@style/AppBaseToolbarOverflowMenuStyle</item>
+        <!-- 菜单颜色 -->
+        <item name="android:textColor">@android:color/black</item>
+        <!-- 溢出菜单按钮（ActionBar溢出菜单，即最后一个按钮） -->
+        <item name="actionOverflowButtonStyle">@style/AppBaseToolbarOverflowButtonStyle</item>
+    </style>
+
+    <style name="myActionButtonStyle" parent="@style/Widget.AppCompat.ActionButton">
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+        <item name="android:padding">0dip</item>
+        <item name="android:minWidth">0dp</item>
+    </style>
+
+    <style name="AppBaseToolBarMenuDropDownStyle" parent="@style/Widget.AppCompat.Spinner.DropDown.ActionBar">
+        <item name="overlapAnchor">false</item>
+        <item name="android:popupBackground">@color/material_deep_teal_500</item>
+        <item name="android:dropDownHorizontalOffset">-4dip</item>
+    </style>
+
+    <style name="AppBaseToolbarOverflowMenuStyle" parent="@style/Widget.AppCompat.Light.PopupMenu.Overflow">
+        <item name="overlapAnchor">false</item>
+        <item name="android:popupBackground">@android:color/white</item>
+        <item name="android:dropDownHorizontalOffset">4dip</item>
+        <!-- ActionBar Menu颜色 -->
+        <item name="android:textColorPrimary">@android:color/black</item>
+    </style>
+
+    <style name="AppBaseToolbarOverflowButtonStyle" parent="@style/Widget.AppCompat.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_mtrl_alpha</item>
+    </style>
+
+</resources>
